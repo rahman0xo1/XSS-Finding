@@ -1,6 +1,6 @@
-1/ ./paramspider.py -d testphp.vulnweb.com  | anew params.txt
-2/ cat params.txt | Gxss | anew reflected.txt
-3/ cat reflected | dalfox pipe
+# 1/ ./paramspider.py -d testphp.vulnweb.com  | anew params.txt
+# 2/ cat params.txt | Gxss | anew reflected.txt
+# 3/ cat reflected | dalfox pipe
 
 
 Tools you need 
